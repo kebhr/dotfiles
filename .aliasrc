@@ -1,0 +1,22 @@
+alias d='cd ~/Dev'
+alias ..='cd ../'
+alias ..2='cd ../../'
+alias ..3='cd ../../../'
+
+alias o='open'
+
+alias g='git'
+alias gd='git diff'
+alias gs='git status'
+alias ga='git add'
+alias gc='git commit'
+alias gc-m='git commit -m'
+alias gcam='git commit --amend -m'
+alias gc-b='git checkout -b'
+alias gp='git push'
+alias gpoh='git push origin HEAD'
+
+alias dc='docker compose'
+
+alias cat='bat'
+alias ls='lsd'
